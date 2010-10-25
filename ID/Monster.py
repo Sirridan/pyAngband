@@ -1,0 +1,5 @@
+import ID.Ranges
+
+( MON_NONE,
+  MON_PLAYER,
+  MON_TEST) = range(ID.Ranges.MONSTER_START, MONSTER_END)
