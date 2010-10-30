@@ -8,6 +8,8 @@ class Item(object):
         self._thrown_damage = "1d2"
         self._weight = 0
         self._value = 0
+        self._rarity = 0
+        self._depth = 0
         self._resists = None    #elements this item is resistant to
                                 #unlike regular v, this can mean that items may resist
                                 #or are completely immune
