@@ -1,0 +1,24 @@
+Plan for pyAngband
+
+Directory and Files:
+
+pyAngband/
+    Creature/
+        Creature.py
+        Monster.py
+        Player.py
+    Dungeon/
+        Dungeon.py
+    Edit/
+        Items.py
+        Monsters.py
+        PlayerClass.py
+        Terrain.py
+    Effect/
+    ID/
+    Object/
+    Util/
+        Util.py
+    Angband.py
+    Client.py
+    

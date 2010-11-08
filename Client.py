@@ -1,5 +1,4 @@
 #angband client
-#listen on port 0xdead by default
 
 import sys, curses
 import Angband    #trying to keep python system includes and game includes seperate
